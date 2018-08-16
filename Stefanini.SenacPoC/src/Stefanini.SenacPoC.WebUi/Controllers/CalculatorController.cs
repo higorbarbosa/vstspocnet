@@ -35,7 +35,7 @@ namespace Stefanini.SenacPoC.WebUi.Controllers
         {
             var model = new CalculatorViewModel();
 
-            model.Operator = CalculatorConstants.Message_ChooseAnOperator;
+           // model.Operator = CalculatorConstants.Message_ChooseAnOperator;
 
             model.Operators = GetOperators();
 

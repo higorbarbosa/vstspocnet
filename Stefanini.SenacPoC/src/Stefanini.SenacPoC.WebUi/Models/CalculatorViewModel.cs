@@ -9,27 +9,29 @@ namespace Stefanini.SenacPoC.WebUi.Models
 {
     public class CalculatorViewModel
     {
-        [Display(Name = "Value 1")]
+        [Display(Name = "Valor 1")]
         public double Value1 { get; set; }
 
-        [Display(Name = "Value 2")]
+        [Display(Name = "Valor 2")]
         public double Value2 { get; set; }
 
-        [Display(Name = "Result")]
+        [Display(Name = "Resultado")]
         public double ResultValue { get; set; }
 
-        [Display(Name = "Operators")]
+        [Display(Name = "Operadores")]
         public List<SelectListItem> Operators { get; set; }
 
-        [Display(Name = "Operator")]
+        [Display(Name = "Operador")]
         public string Operator { get; set; }
 
+
+        [Display(Name = "Mensagem")]
         public string Message { get; set; }
 
-        [Display(Name = "Is Result Valid")]
+        [Display(Name = "Resultado Valido?")]
         public bool IsResultValid { get; set; }
 
-        [Display(Name = "Build Version Message")]
+        [Display(Name = "Mensagem de Versao do Build")]
         public string BuildVersionMessage { get; set; }
     }
 }

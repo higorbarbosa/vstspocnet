@@ -13153,11 +13153,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\Stefanini.SenacPoC.WebUi.csproj",
+      "projectUniqueName": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\Stefanini.SenacPoC.WebUi.csproj",
       "projectName": "Stefanini.SenacPoC.WebUi",
-      "projectPath": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\Stefanini.SenacPoC.WebUi.csproj",
+      "projectPath": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\Stefanini.SenacPoC.WebUi.csproj",
       "packagesPath": "C:\\Users\\higor\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\obj\\",
+      "outputPath": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -13178,8 +13178,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.Api\\Stefanini.SenacPoC.Api.csproj": {
-              "projectPath": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.Api\\Stefanini.SenacPoC.Api.csproj"
+            "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.Api\\Stefanini.SenacPoC.Api.csproj": {
+              "projectPath": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.Api\\Stefanini.SenacPoC.Api.csproj"
             }
           }
         }

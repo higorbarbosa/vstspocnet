@@ -119,20 +119,7 @@ namespace Stefanini.SenacPoC.Tests
 
             Assert.AreEqual<string>(expected, actual, "BuildVersionMessage field value was wrong.");
         }
-
-        [TestMethod]
-        public void CalculatorController_Index_Model_OperatorIsInitialized()
-        {
-            var model =
-                UnitTestUtility.GetModel<CalculatorViewModel>(
-                    SystemUnderTest.Index());
-
-            var actual = model.Operator;
-
-            var expected = CalculatorConstants.Message_ChooseAnOperator;
-
-            Assert.AreEqual<string>(expected, actual, "Operator field value was wrong.");
-        }
+        
 
         [TestMethod]
         public void CalculatorController_Index_Model_MessageIsInitialized()
@@ -142,7 +129,7 @@ namespace Stefanini.SenacPoC.Tests
                     SystemUnderTest.Index());
 
             var actual = model.Message;
-
+            //comentario
             var expected = String.Empty;
 
             Assert.AreEqual<string>(expected, actual, "Message field value was wrong.");

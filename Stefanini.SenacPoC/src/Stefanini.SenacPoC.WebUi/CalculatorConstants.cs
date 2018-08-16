@@ -5,14 +5,16 @@ namespace Stefanini.SenacPoC.WebUi
 {
     public static class CalculatorConstants
     {
-        public const string Message_ChooseAnOperator = "(Choose an operator)";
-        public const string Message_UnknownOperatorMessage = "Huh?";
-        public const string Message_Success = "Yay! Math is so much fun! Wheee!";
-        public const string Message_CantDivideByZero = "Whoa there hold up! You can't divide by zero, Champ.";
 
-        public const string OperatorAdd = "Add";
-        public const string OperatorSubtract = "Subtract";
-        public const string OperatorMultiply = "Multiply";
-        public const string OperatorDivide = "Divide";
+        // constants
+        public const string Message_ChooseAnOperator = "";
+        public const string Message_UnknownOperatorMessage = "Algo errado!";
+        public const string Message_Success = "Sucesso!";
+        public const string Message_CantDivideByZero = "Nao pode dividir por zero!";
+
+        public const string OperatorAdd = "+";
+        public const string OperatorSubtract = "-";
+        public const string OperatorMultiply = "x";
+        public const string OperatorDivide = "/";
     }
 }

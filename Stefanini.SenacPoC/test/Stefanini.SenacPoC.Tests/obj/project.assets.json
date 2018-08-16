@@ -14260,11 +14260,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\test\\Stefanini.SenacPoC.Tests\\Stefanini.SenacPoC.Tests.csproj",
+      "projectUniqueName": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\test\\Stefanini.SenacPoC.Tests\\Stefanini.SenacPoC.Tests.csproj",
       "projectName": "Stefanini.SenacPoC.Tests",
-      "projectPath": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\test\\Stefanini.SenacPoC.Tests\\Stefanini.SenacPoC.Tests.csproj",
+      "projectPath": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\test\\Stefanini.SenacPoC.Tests\\Stefanini.SenacPoC.Tests.csproj",
       "packagesPath": "C:\\Users\\higor\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\test\\Stefanini.SenacPoC.Tests\\obj\\",
+      "outputPath": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\test\\Stefanini.SenacPoC.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -14285,11 +14285,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.Api\\Stefanini.SenacPoC.Api.csproj": {
-              "projectPath": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.Api\\Stefanini.SenacPoC.Api.csproj"
+            "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.Api\\Stefanini.SenacPoC.Api.csproj": {
+              "projectPath": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.Api\\Stefanini.SenacPoC.Api.csproj"
             },
-            "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\Stefanini.SenacPoC.WebUi.csproj": {
-              "projectPath": "C:\\Projetos\\SENAC\\PoC\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\Stefanini.SenacPoC.WebUi.csproj"
+            "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\Stefanini.SenacPoC.WebUi.csproj": {
+              "projectPath": "C:\\Projetos\\senac-poc\\Stefanini.SenacPoC\\src\\Stefanini.SenacPoC.WebUi\\Stefanini.SenacPoC.WebUi.csproj"
             }
           }
         }
