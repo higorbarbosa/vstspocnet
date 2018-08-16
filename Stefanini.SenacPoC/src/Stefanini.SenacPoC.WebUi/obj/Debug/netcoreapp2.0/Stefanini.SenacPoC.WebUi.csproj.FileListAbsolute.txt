@@ -1,0 +1,13 @@
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\bin\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.deps.json
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\bin\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.runtimeconfig.json
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\bin\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.runtimeconfig.dev.json
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\bin\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.dll
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\bin\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.pdb
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\bin\Debug\netcoreapp2.0\Stefanini.SenacPoC.Api.dll
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\bin\Debug\netcoreapp2.0\Stefanini.SenacPoC.Api.pdb
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\obj\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.csprojResolveAssemblyReference.cache
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\obj\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.csproj.CoreCompileInputs.cache
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\obj\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.AssemblyInfoInputs.cache
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\obj\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.AssemblyInfo.cs
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\obj\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.dll
+C:\Projetos\SENAC\PoC\Stefanini.SenacPoC\src\Stefanini.SenacPoC.WebUi\obj\Debug\netcoreapp2.0\Stefanini.SenacPoC.WebUi.pdb
